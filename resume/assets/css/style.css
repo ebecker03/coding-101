@@ -1,0 +1,72 @@
+.image {
+    border: 1px black solid;
+    padding: 20px;
+    background: #777;
+    width: 960px;
+    margin: auto;
+}
+
+.me {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.facebook {
+    width: 50px;
+    height: 50px;
+}
+
+.linkedin {
+    width: 70px; 
+    height: 70px;
+}
+
+.twitter {
+    width: 50px; 
+    height: 50px;
+}
+
+#links {
+    width: 33%;
+    float: left;
+    margin: auto;
+}
+
+#container {
+    width: 960px;
+    margin: auto;
+    text-align: center;
+}
+
+body {
+    background: #888
+}
+
+h1 {
+    float: right;
+    margin-right: 300px;
+    margin-left: auto;
+    font-size: 3em;
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;
+    text-align: center;
+}
+
+tr {
+    border: 1px black solid;
+}
+
+td {
+    border: 1px black solid;
+}
+
+thead {
+    border: 1px black solid;
+}
+
+ul {
+    text-align: left;
+}
